@@ -15,4 +15,10 @@ class AdvertController extends Controller
         return $this->render('OCPlatformBundle:Advert:index.html.twig', array('nom' => 'Carter'));
 
     }
+    
+    public function byebyeAction()
+    {
+        return $this->render('OCPlatformBundle:Advert:byebye.html.twig', array('nom' => 'Carter'));
+
+    }
 }
