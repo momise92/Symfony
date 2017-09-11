@@ -1,9 +1,3 @@
-oc_platform_homepage:
-    path:     /
-    defaults: { _controller: OCPlatformBundle:Default:index }
-oc_plateform_bonjour:
-    path:     /afficher/bonjour
-    defaults: { _controller: OCPlatformBundle:Default:afficheBonjour }
 hello_the_world:
     path:     /hello-world
     defaults: { _controller: OCPlatformBundle:Advert:index }
