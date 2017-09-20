@@ -2,7 +2,7 @@
     "name": "hashcarter/symfony",
     "license": "proprietary",
     "type": "project",
-    "description": "Site d'annonce"
+    "description": "site d'annonce",
     "autoload": {
         "psr-4": {
             "": "src/"
